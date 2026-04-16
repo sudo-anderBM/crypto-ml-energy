@@ -1,0 +1,35 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+.env
+venv/
+.venv/
+env/
+ENV/
+
+# Datos (son grandes, mejor no subirlos a Git)
+data/raw/*.csv
+data/processed/*.csv
+results/*.csv
+results/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Conda
+.conda/
+miniconda3/
