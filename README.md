@@ -146,33 +146,7 @@ python -m src.features.build_features
 - `estimate_carbon_footprint()`: Huella de carbono
 - `calculate_energy_efficiency()`: Eficiencia energética
 
-## 🎓 Características Clave
 
-✅ Análisis técnico avanzado  
-✅ Machine Learning multi-modelo  
-✅ Integración de métricas energéticas  
-✅ Backtesting automático  
-✅ Gestión de riesgo  
-✅ Reportes detallados  
-✅ Código modular y escalable  
 
-## 📝 Próximos Pasos
-
-- [ ] Implementar conexiones a APIs de datos reales
-- [ ] Desarrollar dashboard de monitoreo
-- [ ] Agregar almacenamiento en bases de datos
-- [ ] Crear sistema de alertas
-- [ ] Documentación técnica detallada
-
-## 📧 Contacto
-
-Para preguntas o sugerencias, contactar al equipo del proyecto.
-
-## 📄 Licencia
-
-Este proyecto está bajo licencia MIT.
-
----
-
-**Estado**: Estructura base completada ✓  
+ 
 **Última actualización**: 2026
