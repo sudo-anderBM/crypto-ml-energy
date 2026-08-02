@@ -2,7 +2,7 @@
 
 Proyecto completo de Machine Learning para análisis y predicción de criptomonedas, integrando métricas de consumo energético y consideraciones de eficiencia.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desarrollar un sistema de análisis predictivo de criptomonedas que considere:
 - Análisis técnico tradicional
@@ -10,7 +10,7 @@ Desarrollar un sistema de análisis predictivo de criptomonedas que considere:
 - Métricas de consumo energético de blockchains
 - Estrategias de trading automatizado con gestión de riesgo
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 crypto-ml-energy/
@@ -43,7 +43,7 @@ crypto-ml-energy/
 └── README.md
 ```
 
-## 🚀 Componentes Principales
+##  Componentes Principales
 
 ### 1. **Carga de Datos** (`src/data/load_data.py`)
 - Importación de datos históricos de criptomonedas
@@ -75,7 +75,7 @@ crypto-ml-energy/
 - Huella de carbono
 - Análisis de tendencias
 
-## 📊 Flujo de Trabajo
+##  Flujo de Trabajo
 
 1. **Recopilación de datos**: Carga automática de precios y métricas energéticas
 2. **Preparación**: Limpieza y normalización de datos
@@ -85,7 +85,7 @@ crypto-ml-energy/
 6. **Decisiones**: Generación de señales de trading
 7. **Reportes**: Análisis de rendimiento y riesgo
 
-## 🔧 Instalación
+##  Instalación
 
 ### Requisitos previos
 - Python 3.8+
@@ -106,7 +106,7 @@ source venv/bin/activate  # En Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 📈 Uso
+##  Uso
 
 ```bash
 # Ejecutar pipeline completo
@@ -117,7 +117,7 @@ python -m src.data.load_data
 python -m src.features.build_features
 ```
 
-## 📚 Módulos Disponibles
+##  Módulos Disponibles
 
 ### `src.data`
 - `load_crypto_data()`: Cargar datos de precios
